@@ -1,6 +1,6 @@
 # Fluentbeat
 
-Welcome to Fluentbeat.
+Welcome to Fluentbeat - an Elastic Beat for consuming logs with [Fluentd](https://github.com/fluent/fluentd/wiki/Forward-Protocol-Specification-v0) forward protocol.
 
 Ensure that this folder is at the following location:
 `${GOPATH}/github.com/athenahealth/fluentbeat`
