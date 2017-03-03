@@ -10,6 +10,7 @@ Ensure that this folder is at the following location:
 ### Requirements
 
 * [Golang](https://golang.org/dl/) 1.7
+* [Glide](https://glide.sh/)
 
 ### Init Project
 To get running with Fluentbeat and also install the
