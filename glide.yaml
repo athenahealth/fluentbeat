@@ -1,0 +1,9 @@
+package: github.com/athenahealth/fluentbeat
+import:
+- package: github.com/elastic/beats
+  version: ^5.2.2
+  subpackages:
+  - libbeat/beat
+  - libbeat/common
+  - libbeat/logp
+  - libbeat/publisher

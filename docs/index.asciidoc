@@ -1,0 +1,5 @@
+= Fluentbeat Docs
+
+Welcome to the Fluentbeat documentation.
+
+

@@ -1,0 +1,8 @@
+/.idea
+/build
+/vendor
+.DS_Store
+/fluentbeat
+/fluentbeat.test
+*.pyc
+glide.lock
