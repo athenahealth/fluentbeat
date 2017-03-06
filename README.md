@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/athenahealth/fluentbeat.png?label=ready&title=Ready)](https://waffle.io/athenahealth/fluentbeat)
 # Fluentbeat
 
 Welcome to Fluentbeat - an Elastic Beat for consuming logs with [Fluentd](https://github.com/fluent/fluentd/wiki/Forward-Protocol-Specification-v0) forward protocol.
